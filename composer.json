@@ -1,12 +1,12 @@
 {
-  "name": "Alwaidz/yii2-cars",
+  "name": "alwaidz/yii2-cars",
   "description": "Yii2 Content Module",
   "type": "yii2-extension",
   "license": "MIT",
   "authors": [
     {
-      "name": "uguryildiz",
-      "email": "uguryildiz@kocaeli.edu.tr",
+      "name": "alwaidz",
+      "email": "ozbek.serkan3@gmail.com",
       "role": "Developer"
     }
   ],
@@ -19,12 +19,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Alwaidz\\cars\\": "src"
+      "alwaidz\\cars\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Alwaidz\\cars\\tests\\": "tests"
+      "alwaidz\\cars\\tests\\": "tests"
     }
   },
   "repositories": [
