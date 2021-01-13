@@ -1,0 +1,36 @@
+{
+  "name": "Alwaidz/yii2-cars",
+  "description": "Yii2 Content Module",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "uguryildiz",
+      "email": "uguryildiz@kocaeli.edu.tr",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "yiisoft/yii2": "~2.0.13"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "8.*.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Alwaidz\\cars\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Alwaidz\\cars\\tests\\": "tests"
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ]
+}
