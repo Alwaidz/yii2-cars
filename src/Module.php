@@ -1,6 +1,6 @@
 <?php
 
-namespace Alwaidz\cars;
+namespace alwaidz\cars;
 
 class Module extends \yii\base\Module
 {

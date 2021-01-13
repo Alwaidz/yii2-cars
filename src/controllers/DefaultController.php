@@ -1,6 +1,6 @@
 <?php
 
-namespace Alwaidz\cars\controllers;
+namespace alwaidz\cars\controllers;
 
 class DefaultController extends \yii\web\Controller
 {
