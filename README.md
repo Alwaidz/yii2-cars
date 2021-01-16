@@ -56,15 +56,20 @@ Bu sayfada, verilmiş ilanlar görünmektedir.
 
 ![İlanlar](https://i.imgur.com/w3Frm3n.png)
 
-Create Post seçeneği ile yeni bir ilan oluşturulabilir. Burada, Dropdownlist ile "cars" tablosundan foreign key ile bağlı marka verisi vardır. Verilen ilana göre bunun seçimi yapılır.
+Create Post seçeneği ile yeni bir ilan oluşturulabilir.
 
 ![İlan oluşturma](https://i.imgur.com/VQOgVIi.png)
+
+Burada, Dropdownlist ile "cars" tablosundan foreign key ile bağlı marka verisi vardır. Verilen ilana göre bunun seçimi yapılır.
+
+![İlan oluşturma](https://i.imgur.com/b0UHx56.png)
 
 Cars tablosuna erişmek için ise
 
 ```sh
 http://advanced/backend/web/index.php?r=cars/cars/index
 ```
+
 linki kullanılır. Burada, ilanı oluşturulabilecek başka araba markaları oluşturulabilir ya da mevcut veritabanında bulunan markalar gözlemlenebilir.
 
 ![İlan oluşturma](https://i.imgur.com/WGbhslJ.png)
