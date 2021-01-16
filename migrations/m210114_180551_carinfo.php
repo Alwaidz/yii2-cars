@@ -40,6 +40,11 @@ class m210114_180551_carinfo extends Migration
                 ['1','Mazda'],
                 ['2','Toyota'],
                 ['3', 'Peugeot'],
+                ['4','Citroen'],
+                ['5','Renault'],
+                ['6','BMW'],
+                ['7','Audi'],
+                ['8','Volkswagen'],
 
             ]);
 
