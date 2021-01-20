@@ -75,3 +75,4 @@ linki kullanılır. Burada, ilanı oluşturulabilecek başka araba markaları ol
 ![İlan oluşturma](https://i.imgur.com/WGbhslJ.png)
 
 
+Osman Serkan ÖZBEK - 150202034
